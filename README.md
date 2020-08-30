@@ -4,6 +4,7 @@
 <head>
 <style>
 .center {
+  text-align: left;
   padding: 70px 0;
   border: 3px solid green;
 }
